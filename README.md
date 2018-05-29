@@ -1,2 +1,2 @@
 # Tizen
-# Tizen tetris game project 
+ Tizen tetris game project 
